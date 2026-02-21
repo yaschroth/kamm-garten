@@ -1,0 +1,11 @@
+export { default as Navbar } from "./Navbar";
+export { default as Hero } from "./Hero";
+export { default as TrustStats } from "./TrustStats";
+export { default as ProcessSteps } from "./ProcessSteps";
+export { default as WhyChooseUs } from "./WhyChooseUs";
+export { default as Testimonials } from "./Testimonials";
+export { default as Projects } from "./Projects";
+export { default as Services } from "./Services";
+export { default as ServiceAreas } from "./ServiceAreas";
+export { default as CTA } from "./CTA";
+export { default as Footer } from "./Footer";
