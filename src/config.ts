@@ -199,42 +199,42 @@ export const projects = [
   {
     title: "Naturnaher Hausgarten",
     image:
-      "https://images.unsplash.com/photo-1558904541-efa843c1965f?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1747573285051-f147f538ad6a?q=80&w=800&auto=format&fit=crop",
     category: "Naturnahe Gestaltung",
     location: "Pforzheim",
   },
   {
     title: "Staudenbeet Anlage",
     image:
-      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1728667088041-ee116cf57c6c?q=80&w=800&auto=format&fit=crop",
     category: "Bepflanzung",
     location: "Enzkreis",
   },
   {
     title: "Gartenteich",
     image:
-      "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1474557157379-8aa74a6ef541?q=80&w=800&auto=format&fit=crop",
     category: "Wasseranlagen",
     location: "Ispringen",
   },
   {
     title: "Sitzplatz im Grünen",
     image:
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1633330948542-0b3bdeefcdb3?q=80&w=800&auto=format&fit=crop",
     category: "Terrassen",
     location: "Königsbach-Stein",
   },
   {
     title: "Wildblumenwiese",
     image:
-      "https://images.unsplash.com/photo-1470773452605-de620e48e526?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1560106130-636dcb77013a?q=80&w=800&auto=format&fit=crop",
     category: "Naturwiesen",
     location: "Birkenfeld",
   },
   {
     title: "Schattengartengestaltung",
     image:
-      "https://images.unsplash.com/photo-1598902596854-0e0d4ce7b61e?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1759261110269-bf185b8c2418?q=80&w=800&auto=format&fit=crop",
     category: "Schattengärten",
     location: "Niefern",
   },
